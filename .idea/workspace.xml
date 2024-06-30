@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc76ade-3e60-4e5b-b488-be04ec26aee5" name="Changes" comment="Добавлен .gitignore для исключения файлов IDE и сборки">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="3fc76ade-3e60-4e5b-b488-be04ec26aee5" name="Changes" comment="Добавлен .gitignore для исключения файлов IDE и сборки" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719743301858</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлен .gitignore для исключения файлов IDE и сборки">
+      <option name="closed" value="true" />
+      <created>1719744235512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744235512</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
