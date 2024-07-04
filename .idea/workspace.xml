@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc76ade-3e60-4e5b-b488-be04ec26aee5" name="Changes" comment="Добавлен .gitignore для исключения файлов IDE и сборки">
-      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/1 Поиск и выбор специалистов/pics/Процесс поиска и выбора специалистов.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/1 Поиск и выбор специалистов/select.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/2 Бронирование услуг/pics/Процесс бронирования услуг.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/2 Бронирование услуг/reserve.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/3 Написание отзыва/feedback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/3 Написание отзыва/pics/Процесс написания отзыва.png" afterDir="false" />
+    <list default="true" id="3fc76ade-3e60-4e5b-b488-be04ec26aee5" name="Changes" comment="Добавлено описание процессов">
+      <change afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/Описание процессов/processes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Бизнес-требования/br.md" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Бизнес-требования/br.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719744235512</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавлено описание процессов">
+      <option name="closed" value="true" />
+      <created>1720025395807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720025395807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлен .gitignore для исключения файлов IDE и сборки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлен .gitignore для исключения файлов IDE и сборки" />
+    <MESSAGE value="Добавлено описание процессов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено описание процессов" />
   </component>
 </project>
